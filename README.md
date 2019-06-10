@@ -35,7 +35,7 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 ### Deficinión de la World Wide Web (WWW):
 
-+ [Link 1](https://es.wikipedia.org/wiki/World_Wide_Web) *Artículo de wikipedia que aclara los conceptos técnicos*
++ [Link 1](https://es.wikipedia.org/wiki/World_Wide_Web): *Artículo de wikipedia que aclara los conceptos técnicos*
 + [Link 2](https://developer.mozilla.org/es/docs/Glossary/World_Wide_Web): Definición alternativa.
 + Bibliografia: *Fielding, R.; Gettys, J.; Mogul, J.; Frystyk, H.; Masinter, L.; Leach, P.; Berners-Lee, T. (junio de 1999). Hypertext Transfer Protocol — HTTP/1.1. Request For Comments 2616. Information Sciences Institute. Consultado el 10 de Junio de 2019*
 
