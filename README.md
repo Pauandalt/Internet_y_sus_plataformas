@@ -95,4 +95,5 @@ Introducción a la web: *Presentación donde se definen conceptos previos, se mu
 A modo de ejemplo el profesor expondrá los ejemplos de las plataformas que vea convenientes.
 
 + [Link](https://es.slideshare.net/1811/top10-5086325)
+
 ![alt text](plataformas%20de%20internet.jpg)
