@@ -81,3 +81,11 @@ Introducción a la web: *Presentación donde se definen conceptos previos, se mu
 + [Link 2](https://www.slideshare.net/lore-olaya/plataforma-digital): *Presentación alternativa para explicar qué es una plataforma digital.*
 + [Link 3](https://es.wikipedia.org/wiki/Plataforma_digital#cite_note-1): *Qué es una plataforma digital wikipedia.*
 
+### Funciones de una plataforma
+
+> PLATAFORMA DE INTERNET
++ >Dar soporte al sitio Web de una empresa, el cual se logra mediante servicios de Hospedaje Web, enrutadores y cableado.
++ >Alojar, servir, y mantener archivos para uno o más sitios web.
++ >Permite asegurar el enrutamiento de paquetes entre redes o determinar la ruta que debe tomar el paquete de datos.
+
+[source](https://prezi.com/x97ej4aqd14i/plataformas-de-internet/)
