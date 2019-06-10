@@ -89,3 +89,7 @@ Introducción a la web: *Presentación donde se definen conceptos previos, se mu
 + >Permite asegurar el enrutamiento de paquetes entre redes o determinar la ruta que debe tomar el paquete de datos.
 
 [source](https://prezi.com/x97ej4aqd14i/plataformas-de-internet/)
+
+### ¿Cuáles son?
+
+![alt text](plataformas%20de%20internet.jpg)
