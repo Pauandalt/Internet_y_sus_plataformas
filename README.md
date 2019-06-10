@@ -35,11 +35,15 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 ### Deficinión de la World Wide Web (WWW):
 
++[Link 1](https://es.wikipedia.org/wiki/World_Wide_Web) *Artículo de wikipedia que aclara los conceptos técnicos*
++[Link 2](https://developer.mozilla.org/es/docs/Glossary/World_Wide_Web): Definición alternativa.
++[Bibliografia]:Fielding, R.; Gettys, J.; Mogul, J.; Frystyk, H.; Masinter, L.; Leach, P.; Berners-Lee, T. (junio de 1999). Hypertext Transfer Protocol — HTTP/1.1. Request For Comments 2616. Information Sciences Institute. Consultado el 10 de Junio de 2019
+
 > En informática, la World Wide Web (WWW) o red informática mundial es un sistema de distribución de documentos de hipertexto o hipermedia interconectados y accesibles a través de Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener textos, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces.
 
 ### Diferencia entre internet y la World Wide Web (WWW):
 
-> Internet (el internet o, también, la internet) es un conjunto descentralizado de redes de comunicación interconectadas que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen formen una red lógica única de alcance mundial. Sus orígenes se remontan a 1969, cuando se estableció la primera conexión de computadoras, conocida como ARPANET, entre tres universidades en California (Estados Unidos).
++ [Link](https://es.wikipedia.org/wiki/Internet) 
 
 > Uno de los servicios que más éxito ha tenido en internet ha sido la World Wide Web (WWW o la Web), hasta tal punto que es habitual la confusión entre ambos términos. La WWW es un conjunto de protocolos que permite, de forma sencilla, la consulta remota de archivos de hipertexto. Esta fue un desarrollo posterior (1990) y utiliza internet como medio de transmisión.
 
