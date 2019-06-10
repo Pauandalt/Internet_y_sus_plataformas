@@ -9,7 +9,14 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 | Contenido | Duración |
 | ----- | ----- |
 | **Clase** | **1 hora - 1 hora y 30 minutos** |
-| Introducción: Definición de conceptos previos | 20-30 minutos |
+| **Introducción: Definición de conceptos previos** | **15 minutos** |
+| Deficinión de internet: | 5 minutos |
+| Deficinión de la World Wide Web (WWW) | 5 minutos |
+| Diferencia entre internet y la World Wide Web (WWW) | 5 minutos |
+| **Definicón de lo que es un hipertexto** | **10 minutos** |
+| Definición con ejemplo: Project 1989  | 5 minutos |
+| Deficiniciones de conceptos como http, url, etc: | 5 minutos |
+| **Plataformas de Internet** | **20 minutos** |
 | **Práctica programación html** | **30 minutos** |
 
 ***
