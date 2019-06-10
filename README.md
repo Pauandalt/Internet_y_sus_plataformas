@@ -14,15 +14,28 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 ***
 
-## Introducción: Definición de conceptos previos
+## Introducción, definición de conceptos previos: Internet y la World Wide Web
 
-Deficinión de internet:
+### Deficinión de internet:
 
 *Definición técnica:* 
-+ [Link 1](https://es.wikipedia.org/wiki/Internet)
-+ [Link 2]()
-+ [Link 3]()
 
++ [Link 1](https://es.wikipedia.org/wiki/Internet): *Artículo de wikipedia que aclara los conceptos técnicos*
++ [Link 2](https://www.fundeu.es/recomendacion/internet-terminos-relacionados-1315/):  «internet, claves de redacción». Fundeu. Consultado el 10 de Junio de 2018.
+
+*Articulo de divulgación:* 
+
++ [Link 3](https://definicion.de/internet/):Qué es, Significado y Concepto
+
+*Deficnición simple:
+
++ [Link 4](https://www.google.com/search?q=internet+definicion&rlz=1C1CHBD_esES774ES778&oq=internet+defi&aqs=chrome.0.0j69i57j0l4.3876j1j4&sourceid=chrome&ie=UTF-8): *Diccionario google*
+
+> Red informática de nivel mundial que utiliza la línea telefónica para transmitir la información.
+
+### Deficinión de la World Wide Web (WWW):
+
+> En informática, la World Wide Web (WWW) o red informática mundial1​ es un sistema de distribución de documentos de hipertexto o hipermedia interconectados y accesibles a través de Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener textos, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces.
 *Ejemplo:*
 
 > Internet (el internet o, también, la internet)3​ es un conjunto descentralizado de redes de comunicación interconectadas que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen formen una red lógica única de alcance mundial. Sus orígenes se remontan a 1969, cuando se estableció la primera conexión de computadoras, conocida como ARPANET, entre tres universidades en California (Estados Unidos).
