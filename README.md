@@ -27,7 +27,7 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 + [Link 3](https://definicion.de/internet/):Qué es, Significado y Concepto
 
-*Deficnición simple:
+*Deficnición simple:*
 
 + [Link 4](https://www.google.com/search?q=internet+definicion&rlz=1C1CHBD_esES774ES778&oq=internet+defi&aqs=chrome.0.0j69i57j0l4.3876j1j4&sourceid=chrome&ie=UTF-8): *Diccionario google*
 
@@ -35,9 +35,9 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 ### Deficinión de la World Wide Web (WWW):
 
-+[Link 1](https://es.wikipedia.org/wiki/World_Wide_Web) *Artículo de wikipedia que aclara los conceptos técnicos*
-+[Link 2](https://developer.mozilla.org/es/docs/Glossary/World_Wide_Web): Definición alternativa.
-+[Bibliografia]:Fielding, R.; Gettys, J.; Mogul, J.; Frystyk, H.; Masinter, L.; Leach, P.; Berners-Lee, T. (junio de 1999). Hypertext Transfer Protocol — HTTP/1.1. Request For Comments 2616. Information Sciences Institute. Consultado el 10 de Junio de 2019
++ [Link 1](https://es.wikipedia.org/wiki/World_Wide_Web) *Artículo de wikipedia que aclara los conceptos técnicos*
++ [Link 2](https://developer.mozilla.org/es/docs/Glossary/World_Wide_Web): Definición alternativa.
++ [Bibliografia]:Fielding, R.; Gettys, J.; Mogul, J.; Frystyk, H.; Masinter, L.; Leach, P.; Berners-Lee, T. (junio de 1999). Hypertext Transfer Protocol — HTTP/1.1. Request For Comments 2616. Information Sciences Institute. Consultado el 10 de Junio de 2019
 
 > En informática, la World Wide Web (WWW) o red informática mundial es un sistema de distribución de documentos de hipertexto o hipermedia interconectados y accesibles a través de Internet. Con un navegador web, un usuario visualiza sitios web compuestos de páginas web que pueden contener textos, imágenes, vídeos u otros contenidos multimedia, y navega a través de esas páginas usando hiperenlaces.
 
