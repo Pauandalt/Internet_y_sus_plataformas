@@ -74,3 +74,8 @@ Introducción a la web: *Presentación donde se definen conceptos previos, se mu
 ![Alt text](Explicación%20componentes%20báscicas%20de%20la%20web.png)
 
 ## Plataformas de Internet
+
+### ¿Qué es una plataforma de internet?
+
+[Link:](https://prezi.com/x97ej4aqd14i/plataformas-de-internet/): Presentación prezi que explica de manera muy sencilla qué es una plataforma de internet y para qué sirve.
+
