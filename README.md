@@ -55,4 +55,4 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 Project 1989: *En esta web, se describen lo que es la World Wide Web mostrando de manera clara y sencilla lo que es un hypertexto, la propia explicación sirve a modo de ejemplo* 
 
-+ [Link](http://info.cern.ch/hypertext/WWW/TheProject.html Hypertext system: http, html, url)
++ [Link](http://info.cern.ch/hypertext/WWW/TheProject.html): *Hypertext system: http, html, url*
