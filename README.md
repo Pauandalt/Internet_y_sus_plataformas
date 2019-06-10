@@ -55,7 +55,9 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 Project 1989: *En esta web, se describen lo que es la World Wide Web mostrando de manera clara y sencilla lo que es un hypertexto, la propia explicación sirve a modo de ejemplo* 
 
-+ [Link](http://info.cern.ch/hypertext/WWW/TheProject.html): *Hypertext system: http, html, url*
+### Deficiniciones de conceptos como http, url, etc:
++ [Link 1](https://prezi.com/yy1qvuk2vhtj/que-significan-los-terminos-html-http-tcp-ip-lan-www/): *presentación prezi donde se aclaran múltiples conceptos, el profesor decidirá cuantos y cuales incluir.* 
++ [Link 2](http://info.cern.ch/hypertext/WWW/TheProject.html): *Hypertext system: http, html, url*
 
 Introducción a la web: *Presentación donde se definen conceptos previos, se muestan ejemplos y se diferencian los conceptos de http, html,url de manera sencilla y clara:*
 
