@@ -57,6 +57,6 @@ Project 1989: *En esta web, se describen lo que es la World Wide Web mostrando d
 
 + [Link](http://info.cern.ch/hypertext/WWW/TheProject.html): *Hypertext system: http, html, url*
 
-Introducción a la web: *Presentación donde se definen conceptos previos, se muestan ejemplos y se diferencian los conceptos de http, html,url de manera sencilla y clara:
+Introducción a la web: *Presentación donde se definen conceptos previos, se muestan ejemplos y se diferencian los conceptos de http, html,url de manera sencilla y clara:*
 
 + [Link](https://es.slideshare.net/jsalvachua/introducin-a-la-web-http-url-y-html-presentation): *Introdución a la web: HTTP, URL y HTML. 1. Arquitectura de la Web : HTTP, URL y HTML*
