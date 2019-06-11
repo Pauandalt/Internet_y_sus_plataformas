@@ -34,7 +34,7 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 + [Link 3](https://definicion.de/internet/):Qué es, Significado y Concepto
 
-*Deficnición simple:*
+*Definición simple:*
 
 + [Link 4](https://www.google.com/search?q=internet+definicion&rlz=1C1CHBD_esES774ES778&oq=internet+defi&aqs=chrome.0.0j69i57j0l4.3876j1j4&sourceid=chrome&ie=UTF-8): *Diccionario google*
 
