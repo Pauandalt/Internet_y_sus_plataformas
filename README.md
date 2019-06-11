@@ -58,11 +58,11 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 [Source](https://es.wikipedia.org/wiki/Internet)
 
-## Definicón de lo que es un **hipertexto**
+## Definición de lo que es un **hipertexto**
 
 Project 1989: *En esta web, se describen lo que es la World Wide Web mostrando de manera clara y sencilla lo que es un hypertexto, la propia explicación sirve a modo de ejemplo* 
 
-### Deficiniciones de conceptos como http, url, etc:
+### Definiciones de conceptos como http, url, etc:
 + [Link 1](https://prezi.com/yy1qvuk2vhtj/que-significan-los-terminos-html-http-tcp-ip-lan-www/): *presentación prezi donde se aclaran múltiples conceptos, el profesor decidirá cuantos y cuales incluir.* 
 + [Link 2](http://info.cern.ch/hypertext/WWW/TheProject.html): *Hypertext system: http, html, url*
 
