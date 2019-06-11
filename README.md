@@ -27,7 +27,7 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 *Definición técnica:* 
 
-+ [Link 1](https://es.wikipedia.org/wiki/Internet): *Artículo de wikipedia que aclara los conceptos técnicos*
++ [Link 1](https://es.wikipedia.org/wiki/Internet): *Artículo de Wikipedia que aclara los conceptos técnicos*
 + [Link 2](https://www.fundeu.es/recomendacion/internet-terminos-relacionados-1315/):  «internet, claves de redacción». Fundeu. Consultado el 10 de Junio de 2018.
 
 *Artículo de divulgación:* 
@@ -60,7 +60,7 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 ## Definición de lo que es un **hipertexto**
 
-Project 1989: *En esta web, se describen lo que es la World Wide Web mostrando de manera clara y sencilla lo que es un hypertexto, la propia explicación sirve a modo de ejemplo* 
+Project 1989: *En esta web, se describen lo que es la World Wide Web mostrando de manera clara y sencilla lo que es un hipertexto, la propia explicación sirve a modo de ejemplo* 
 
 ### Definiciones de conceptos como http, url, etc:
 + [Link 1](https://prezi.com/yy1qvuk2vhtj/que-significan-los-terminos-html-http-tcp-ip-lan-www/): *presentación prezi donde se aclaran múltiples conceptos, el profesor decidirá cuantos y cuales incluir.* 
