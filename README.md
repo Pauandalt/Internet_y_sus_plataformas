@@ -68,7 +68,7 @@ Project 1989: *En esta web, se describen lo que es la World Wide Web mostrando d
 
 Introducción a la web: *Presentación donde se definen conceptos previos, se muestran ejemplos y se diferencian los conceptos de http, html, url de manera sencilla y clara:*
 
-+ [Link 3](https://es.slideshare.net/jsalvachua/introducin-a-la-web-http-url-y-html-presentation): *Introdución a la web: HTTP, URL y HTML. 1. Arquitectura de la Web : HTTP, URL y HTML*
++ [Link 3](https://es.slideshare.net/jsalvachua/introducin-a-la-web-http-url-y-html-presentation): *Introducción a la web: HTTP, URL y HTML. 1. Arquitectura de la Web : HTTP, URL y HTML*
 
 + *Imagen explicativa:*
 ![Alt text](Explicación%20componentes%20báscicas%20de%20la%20web.png)
