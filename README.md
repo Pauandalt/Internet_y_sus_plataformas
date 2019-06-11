@@ -1,4 +1,4 @@
-# Guión de Internet y sus plataformas
+# Guion de Internet y sus plataformas
 
 ### Objetivo
 
@@ -10,10 +10,10 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 | ----- | ----- |
 | **Clase** | **1 hora - 1 hora y 30 minutos** |
 | **Introducción: Definición de conceptos previos** | **15 minutos** |
-| Deficinión de internet: | 5 minutos |
-| Deficinión de la World Wide Web (WWW) | 5 minutos |
+| Definición de internet: | 5 minutos |
+| Definición de la World Wide Web (WWW) | 5 minutos |
 | Diferencia entre internet y la World Wide Web (WWW) | 5 minutos |
-| **Definicón de lo que es un hipertexto** | **10 minutos** |
+| **Definición de lo que es un hipertexto** | **10 minutos** |
 | Definición con ejemplo: Project 1989  | 5 minutos |
 | Deficiniciones de conceptos como http, url, etc: | 5 minutos |
 | **Plataformas de Internet** | **20 minutos** |
