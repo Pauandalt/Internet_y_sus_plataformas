@@ -77,9 +77,9 @@ Introducción a la web: *Presentación donde se definen conceptos previos, se mu
 
 ### ¿Qué es una plataforma de internet?
 
-+ [Link 1](https://prezi.com/x97ej4aqd14i/plataformas-de-internet/): *Presentación prezi que explica de manera muy sencilla qué es una plataforma de internet y para qué sirve.*
++ [Link 1](https://prezi.com/x97ej4aqd14i/plataformas-de-internet/): *Presentación Prezi que explica de manera muy sencilla qué es una plataforma de internet y para qué sirve.*
 + [Link 2](https://www.slideshare.net/lore-olaya/plataforma-digital): *Presentación alternativa para explicar qué es una plataforma digital.*
-+ [Link 3](https://es.wikipedia.org/wiki/Plataforma_digital#cite_note-1): *Qué es una plataforma digital wikipedia.*
++ [Link 3](https://es.wikipedia.org/wiki/Plataforma_digital#cite_note-1): *Qué es una plataforma digital Wikipedia.*
 
 ### Funciones de una plataforma
 
