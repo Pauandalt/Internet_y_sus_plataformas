@@ -23,7 +23,7 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 ## Introducción, definición de conceptos previos: Internet y la World Wide Web
 
-### Deficinión de internet:
+### Definición de internet:
 
 *Definición técnica:* 
 
@@ -40,7 +40,7 @@ Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los
 
 > Red informática de nivel mundial que utiliza la línea telefónica para transmitir la información.
 
-### Deficinión de la World Wide Web (WWW):
+### Definición de la World Wide Web (WWW):
 
 + [Link 1](https://es.wikipedia.org/wiki/World_Wide_Web): *Artículo de wikipedia que aclara los conceptos técnicos*
 + [Link 2](https://developer.mozilla.org/es/docs/Glossary/World_Wide_Web): Definición alternativa.
