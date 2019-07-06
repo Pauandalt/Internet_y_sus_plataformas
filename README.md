@@ -97,3 +97,23 @@ A modo de ejemplo el profesor expondrá los ejemplos de las plataformas que vea 
 + [Link](https://es.slideshare.net/1811/top10-5086325)
 
 ![alt text](plataformas%20de%20internet.jpg)
+
+### ¿Por qué son importantes?
+
++ Se espera que en 2020 el número de objetos conectados llegue a los 80.000 millones
++ Un negocio de 7.100 millones de dólares
++ Dará empleo 36 millones de personas
++ 95% de los nuevos productos estarán conectados.
+
+> Según un informe de la consultora Gartner, el crecimiento de los negocios y el desarrollo de soluciones IoT será constante en los próximos años y uno de los grandes dinamizadores de la Economía a escala mundial. Hablamos tanto del desarrollo de aplicaciones propias, como de un nuevo entorno de negocio en el que las empresas tendrán que poner en comunicación sus objetos conectados para interconectarlos y, de esta manera, poder acceder a los millones de datos que les suministran.
+
+> En este mismo informe, la consultora señala que las plataformas de Internet de las Cosas van a ser claves para el desarrollo de nuevas soluciones para las empresas y emprendedores. De esta manera, entre las ventajas del uso de estas plataformas de Internet de las Cosas se señalan aspectos como:
+
++ > Aprovisionamiento y gestión de puntos finales, así como interconectividad de los distintos objetos conectados.
++ > Desarrollo de nuevas aplicaciones basadas en IoT.
++ > Herramientas de gestión y análisis de datos
++ > Procesamiento de secuencias de eventos.
++ > Monitorización y seguridad de las aplicaciones IoT
++ > Gestión de redes de comunicaciones, así como optimización de procesos empresariales.
+
+[source](https://www.blog.andaluciaesdigital.es/plataformas-de-internet-de-las-cosas/)
