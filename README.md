@@ -4,6 +4,11 @@
 
 Mediante esta clase se pretende mostrar de manera sencilla qué es internet, los usos que tiene y lo que puede llegar a suponer en un futuro cada vez más conectado. Además, se pretende que el alumno comprenda qué es un fichero "*html*" y que programe por primera vez una página web, herramienta indispensable para todo futuro profesional. Para ello, además de la clase, se llevará a cabo una pequeña práctica de programación html.
 
+Por otro lado, se presentarán varias de las plataformas que componen la web de manera que el alumno adquiera una idea superficial de la importancia y composición de las mismas. Si bien, este guion no pretende que quien lo reciba sea un experto, se pretende que sepa interpretar como funciona la web y que viene escrito por detrás de la misma.
+
+La práctica de html tendrá dos variantes. La primera, tratará tan solo de identificar TAGs de una página web y comprender que ha venido escrito por detrás de lo que el usuario visualiza. La segunda tratará de imitar la primera página web  manera sencilla empleando el Note Pad ++  y ejecutando el fichero html en el buscador que se prefiera.
+
+
 ![Alt text](Intro_internet.png)
 
 | Contenido | Duración |
